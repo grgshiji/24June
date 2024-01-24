@@ -1,0 +1,16 @@
+{
+  "name": "24June",
+  "type": "package",
+  "blockId": "1QLjkgj_GgGq1cHXs8DId",
+  "source": {
+    "https": "https://github.com/grgshiji/24June.git",
+    "ssh": "git@github.com:grgshiji/24June.git",
+    "branch": "block_24June"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
